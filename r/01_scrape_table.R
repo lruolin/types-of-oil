@@ -30,6 +30,8 @@ tables
 dfs <- map(tables, ~ as_tibble(.x))
 glimpse(dfs)
 
+## Clean data -------
+
 # Classes are enumerated as:
 # pumpkin (1), sunflower (2),
 # peanut (3), olive (4), soybean (5),
@@ -97,6 +99,7 @@ names(df_unknowns) <- c(
   "corn"
 )
 
+## Check for number of samples to tally with journal -----
 glimpse(df_unknowns)
 
 n36 <-
@@ -137,6 +140,7 @@ glimpse(oil_df_with_description)
 oil_df_with_description %>%
   filter(id == 27)
 
+# EXPORT ------
 out_path <-
   here("data", "veg_oil_gc_conc.csv")
 
