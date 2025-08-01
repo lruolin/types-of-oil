@@ -1,0 +1,133 @@
+id,class,palmitic,stearic,oleic,linoleic,linolenic,eicosanoic,eicosenoic,description
+1,pumpkin,9.7,5.2,31,52.7,0.4,0.4,0.1,pumpkin
+2,pumpkin,11.1,5,32.9,49.8,0.3,0.4,0.1,pumpkin
+3,pumpkin,11.5,5.2,35,47.2,0.2,0.4,0.1,pumpkin
+4,pumpkin,10,4.8,30.4,53.5,0.3,0.4,0.1,pumpkin
+5,pumpkin,12.2,5,31.1,50.5,0.3,0.4,0.1,pumpkin
+6,pumpkin,9.8,4.2,43,39.2,2.4,0.4,0.5,pumpkin
+7,pumpkin,10.5,5,31.8,51.3,0.4,0.4,0.1,pumpkin
+8,pumpkin,10.5,5,31.8,51.3,0.4,0.4,0.1,pumpkin
+9,pumpkin,11.5,5.2,35,47.2,0.2,0.4,0.1,pumpkin
+10,pumpkin,10,4.8,30.4,53.5,0.3,0.4,0.1,pumpkin
+11,pumpkin,11.1,5,32.9,49.8,0.3,0.4,0.1,pumpkin
+12,pumpkin,9.3,4.4,43.3,39.2,2.3,0.4,0.5,pumpkin
+13,pumpkin,12.2,5,31.1,50.5,0.3,0.4,0.1,pumpkin
+14,pumpkin,9.7,5.6,35.2,47.8,0.5,0.4,0.2,pumpkin
+15,pumpkin,11.1,4.6,28.3,50.6,4.2,0.4,0.2,pumpkin
+16,pumpkin,11,4.7,29.8,49.6,3.4,0.4,0.2,pumpkin
+17,pumpkin,11.6,6,35.4,45.9,0.2,0.4,0.1,pumpkin
+18,pumpkin,9.8,5.3,31.7,51.3,0.8,0.4,0.2,pumpkin
+19,sunflower,6.1,4.1,24,64.3,0.1,0.3,0.1,sunflower
+20,sunflower,6.2,3.9,27.1,59.9,1.3,0.3,0.3,sunflower
+21,sunflower,6,4.9,22.8,64.4,0.3,0.3,0.2,sunflower
+22,mixed_unknown,6.7,3.4,35.2,49.3,3.6,0.4,0.5,vegetable
+23,mixed_unknown,3.8,3.9,77.8,12.4,0.2,0.3,0.2,vegetable
+24,mixed_unknown,10.1,4.7,26.1,52.6,5.2,0.4,0.2,vegetable
+25,mixed_unknown,4.9,2.2,58.2,25.2,7.1,0.6,1.2,vegetable
+26,mixed_unknown,6.1,2.7,45.7,37.4,5.9,0.5,0.8,vegetable
+27,mixed_unknown,7.2,4.5,25.6,61.1,0.2,0.3,0.2,vegetable
+28,mixed_unknown,5.9,2.4,55.5,27.7,6.2,0.6,1.1,vegetable unrefined
+29,mixed_unknown,10.9,3.8,25.3,53,5.6,0.4,0.2,vegetable unrefined
+30,sunflower,6.2,4.1,26.8,61.4,0.1,0.3,0.2,sunflower
+31,sunflower,6.1,4,25.2,63.2,0.1,0.2,0.2,sunflower
+32,soybean,10.9,3.6,26,52.6,5.5,0.4,0.2,soybean
+33,soybean,9.6,3.5,30.3,49.2,5.9,0.4,0.3,soybean
+34,corn,10,2.3,36.9,47.1,2.2,0.5,0.5,corn
+35,rapeseed,5.1,2.3,55.9,27.4,6.8,0.5,0.5,rapeseed
+36,peanut,9.7,3.4,59.3,20.5,0.1,1.5,1.2,peanut
+37,mixed_unknown,5.2,2,59.3,22.7,8.2,0.6,1.3,"mixed pumpkin, vegetable"
+38,mixed_unknown,8.3,3.5,33.6,45.6,6.3,0.4,0.6,vegetable
+39,sunflower,6.1,4.1,26.7,61,0.6,0.3,0.2,sunflower
+40,sunflower,6.2,4,25.8,62.2,0.4,0.3,0.2,sunflower
+41,sunflower,6,3.8,29.6,57.7,1.2,0.3,0.3,sunflower
+42,sunflower,6.5,2.8,23.2,66.1,0.1,0.2,0.2,sunflower
+43,sunflower,7,3.4,23.2,64.9,0.1,0.2,0.2,sunflower
+44,sunflower,6,4,28.3,60.1,0.1,0.3,0.2,sunflower
+45,pumpkin,11.2,6.2,37.7,43.6,0.2,0.5,0.2,pumpkin
+46,pumpkin,7.6,4.7,29.1,56.1,0.7,0.4,0.2,pumpkin
+47,pumpkin,7.7,4.7,31.1,54.3,0.8,0.4,0.2,pumpkin
+48,pumpkin,9.9,5.2,37.4,44.2,2.1,0.4,0.3,pumpkin
+49,pumpkin,11.5,5.1,27.8,54.5,0.2,0.4,0.1,pumpkin
+50,pumpkin,11.3,5.8,35.2,46.7,0.2,0.4,0.1,pumpkin
+51,olive,14.9,2.6,68.2,12.8,0.6,0.4,0.3,olive
+52,olive,9.3,2.8,65,17,3.9,0.5,0.7,olive
+53,soybean,10.5,4.2,25.5,52,7.8,0.05,0.05,soybean
+54,soybean,10,4.2,24.9,53.2,6.9,0.4,0.05,soybean
+55,soybean,10.4,4.2,25.9,50.8,7.5,0.4,0.4,soybean
+56,soybean,10.5,4.2,24.4,52.1,7.5,0.4,0.05,soybean
+57,soybean,10.5,4.3,24.6,53.1,7.6,0.05,0.05,soybean
+58,soybean,10.2,4,23.1,55.1,7.1,0.5,0.05,soybean
+59,soybean,10.9,3.8,27.2,49.5,6.4,0.7,0.9,soybean
+60,soybean,11.9,3.8,25.7,52.7,5.8,0.05,0.05,soybean
+61,mixed_unknown,5.1,2,57.2,26.1,6.9,0.7,1.4,vegetable
+62,mixed_unknown,4.8,1.9,56.6,25.7,8.1,0.8,1.5,vegetable
+63,mixed_unknown,10.9,3.2,25.3,53.2,5.8,0.4,0.3,vegetable
+64,mixed_unknown,11.1,3.8,24.4,52.8,6,0.4,0.3,vegetable
+65,mixed_unknown,10.4,4.8,24.5,51.8,5.7,0.5,0.5,vegetable
+66,mixed_unknown,11,4.3,22.9,54.1,7.6,0.05,0.05,vegetable
+67,mixed_unknown,10.8,4.3,22.7,54.6,7.7,0.05,0.05,vegetable
+68,mixed_unknown,10.8,4.3,23.1,54.1,7.6,0.05,0.05,vegetable
+69,mixed_unknown,8,4.3,32.1,44.8,6.4,1.5,1.8,vegetable
+70,mixed_unknown,5.9,5.2,24.7,62.7,0.5,1.1,0.05,vegetable
+71,mixed_unknown,4.1,4.3,26.1,62.8,0.5,0.05,0.05,vegetable
+72,mixed_unknown,3.9,3.3,80.6,11.3,0.1,0.05,0.05,vegetable
+73,mixed_unknown,5.1,2,58,25,6.9,0.7,1.4,vegetable
+74,mixed_unknown,5,1.8,59.1,23.2,8,0.7,1.4,vegetable
+75,olive,10.9,2.7,76.7,7.9,0.8,0.05,0.05,olive
+76,olive,10.5,2.8,75.8,8,0.7,0.05,0.05,olive
+77,olive,12,2.7,75.1,8.5,0.8,0.05,0.05,olive
+78,olive,11.7,2.9,74.6,10.1,0.6,0.05,0.05,olive
+79,olive,11.4,3,73,10.6,0.7,0.05,0.05,olive
+80,rapeseed,4.8,1.8,62.6,20,9.5,0.05,1.4,rapeseed
+81,rapeseed,5.5,1.7,59,21.3,9.3,0.6,1.5,rapeseed
+82,rapeseed,5.1,1.9,59.2,22.3,9.3,0.7,1.6,rapeseed
+83,rapeseed,4.8,1.9,61.6,20.9,8,0.8,1.5,rapeseed
+84,mixed_unknown,6.2,4.1,31.1,56.7,0.8,0.3,0.05,oil for frying
+85,mixed_unknown,6.2,4.1,31.1,57.3,0.5,0.8,0.05,unrefined
+86,mixed_unknown,6.7,5.5,24.1,60.8,0.9,0.7,0.7,oil for frying
+87,mixed_unknown,8.3,4,34,52.4,0.3,0.4,0.05,oil for frying
+88,peanut,10,3.3,60,21.3,0.2,1.5,1.3,peanut
+89,peanut,9.6,3.3,57.7,20.7,0.2,1.5,1.8,peanut
+90,pumpkin,12.2,5.4,29.4,53,1,0.05,0.05,pumpkin
+91,pumpkin,11,5.3,35,45.2,1.3,1.3,0.7,pumpkin
+92,pumpkin,11.9,5.6,33.6,48.9,1,0.05,0.05,pumpkin
+93,pumpkin,11.4,5.8,34.5,48.3,1,0.05,0.05,pumpkin
+94,pumpkin,10.7,5.4,39.3,43.2,1.4,0.05,0.05,pumpkin
+95,pumpkin,11.2,6.2,35.8,44.1,0.7,1.1,0.05,pumpkin
+96,pumpkin,11.4,5.8,33.9,48.1,0.8,0.8,0.05,pumpkin
+97,pumpkin,11.5,6.2,39.7,42.6,0.8,0.05,0.05,pumpkin
+98,pumpkin,13,6.2,25.8,55,0.8,0.05,0.05,pumpkin
+99,pumpkin,13,6.7,29.6,50.8,0.5,0.05,0.05,pumpkin
+100,pumpkin,13.1,6.3,26.5,53.6,0.5,0.5,0.05,pumpkin
+101,pumpkin,11.6,6.5,38.4,42.8,0.5,0.7,0.05,pumpkin
+102,pumpkin,13.1,5.7,31.7,49.5,0.6,0.05,0.05,pumpkin
+103,sunflower,6.1,4.1,25.1,63.5,0.5,0.05,0.05,sunflower
+104,mixed_unknown,5.4,4.2,41.4,48.2,0.5,0.05,0.05,sunflower
+105,mixed_unknown,4.6,1.7,61.8,20.3,9.3,0.7,1.5,sunflower
+106,sunflower,6.3,4.2,27.4,61.4,0.8,0.05,0.05,sunflower
+107,sunflower,6.2,4.2,27.1,61.8,0.8,0.05,0.05,sunflower
+108,sunflower,6.2,4.2,27,60.9,0.5,0.3,0.05,sunflower
+109,sunflower,6.2,4,28.3,59.7,0.9,0.05,0.05,sunflower
+110,sunflower,5.6,4.2,25.7,58.9,1.7,2.8,0.9,sunflower
+111,sunflower,6.4,3.9,26,63.7,0.5,0.05,0.05,sunflower
+112,sunflower,6.8,4.3,26.4,60.5,1.3,0.05,0.05,sunflower
+113,sunflower,6,4.4,27.1,60.9,0.9,0.05,0.05,sunflower
+114,sunflower,6.4,4.8,25.3,61.8,1,0.05,0.05,sunflower
+115,sunflower,5.9,4.5,24.1,61.7,0.9,0.6,0.6,sunflower
+116,sunflower,6.2,4.1,29.9,57.8,1.3,0.05,0.05,sunflower
+117,sunflower,6.6,4.7,24.5,62.8,0.3,0.4,0.05,sunflower
+118,sunflower,6.4,4.4,24.4,63.7,0.4,0.4,0.05,sunflower
+119,rapeseed,5.4,2,53.2,28.9,7.3,0.6,1.3,rapeseed
+120,rapeseed,5.1,1.9,59.2,22.4,9.3,0.6,1.5,rapeseed
+121,corn,10.7,1.8,30.2,55.5,0.9,0.5,0.3,corn
+122,mixed_unknown,7.5,5.1,29.5,56.3,0.1,0.05,0.05,"mixed 10% pumpkin, 90% vegetable"
+123,mixed_unknown,8,3.1,40.1,39.6,6.9,0.6,1,"mixed 50% soybean, 50% sunflower"
+124,mixed_unknown,8.2,3.4,34.4,45.8,5.7,0.6,0.8,"mixed 70% soybean, 30% rapeseed"
+125,mixed_unknown,11,3.8,24.6,52.5,6.1,0.5,0.4,"mixed 80% pumpkin, 20% sunflower"
+126,mixed_unknown,10.5,4.1,22.3,53.6,8.3,0.4,0.05,"mixed 20% pumpkin, 80% vegetable"
+127,mixed_unknown,9.4,4.7,34.9,49.1,0.2,0.05,0.05,"mixed 50% pumpkin, 50% vegetable"
+128,mixed_unknown,9.8,4.9,34.8,48.4,1.7,0.5,0.05,"mixed 50% pumpkin, 50% vegetable"
+129,rapeseed,4.5,1.7,64.9,18.6,8.3,0.05,0.05,rapeseed
+130,rapeseed,5.7,2.1,54.6,26.8,8,0.05,0.05,rapeseed
+131,rapeseed,6.2,2.2,52.2,29,8,0.05,0.05,rapeseed
+132,soybean,9.7,3.9,25.1,54.2,5.9,0.05,0.05,soybean
