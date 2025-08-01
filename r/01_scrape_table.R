@@ -84,19 +84,11 @@ table_unknowns <-
     guess = TRUE
   )
 
-df_unknowns <- table_unknowns[[1]] # there are 37?
+df_unknowns <- table_unknowns[[1]] %>% select(1, 3) # there are 37?
 
 names(df_unknowns) <- c(
   "description",
-  "no",
-  "id",
-  "pumpkin",
-  "sunflower",
-  "peanut",
-  "olive",
-  "soybean",
-  "rapeseed",
-  "corn"
+  "id"
 )
 
 ## Check for number of samples to tally with journal -----
@@ -124,7 +116,7 @@ oil_df %>%
 # MERGE TABLES  -----
 oil_df_with_description <-
   oil_df %>%
-  left_join(df_unknowns %>%  select(id, description), by = "id") %>%
+  left_join(df_unknowns, by = "id") %>%
   mutate(description = case_when(
     is.na(description) ~ class,
     .default = description
@@ -144,4 +136,12 @@ oil_df_with_description %>%
 out_path <-
   here("data", "veg_oil_gc_conc.csv")
 
-write_csv(oil_df_with_description, out_path)
+#write_csv(oil_df_with_description, out_path)
+
+# also export as .rda
+rda_out_path <-
+  here("data", "veg_oil_gc_conc.rda")
+
+save(oil_df_with_description, file = rda_out_path)
+
+
